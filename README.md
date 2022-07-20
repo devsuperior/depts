@@ -17,3 +17,8 @@ username: bob@gmail.com
 password: 123456
 token
 ```
+
+## Figma login
+
+https://www.figma.com/file/FeWfLC0haqgMHx6GXzjhbd/Depts
+
