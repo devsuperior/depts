@@ -8,6 +8,6 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (1, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (2, 2);
 
-INSERT INTO tb_department(name) VALUES ('Sales');
-INSERT INTO tb_department(name) VALUES ('Management');
-INSERT INTO tb_department(name) VALUES ('Training');
+INSERT INTO tb_department(name) VALUES ('Vendas');
+INSERT INTO tb_department(name) VALUES ('Gestão');
+INSERT INTO tb_department(name) VALUES ('Treinamento');
